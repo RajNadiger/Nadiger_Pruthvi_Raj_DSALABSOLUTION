@@ -1,4 +1,3 @@
-package com.greatlearning.Lab3;
 
 import java.util.*;
 import java.util.Scanner;
